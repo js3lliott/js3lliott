@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning different machine learning techniques and deep learning techniques
-- 📫 Find me @: 
+- 📫 Find me **@**: 
   - [LinkedIn](https://www.linkedin.com/in/jordan-samek/)
   - [Mail](mailto:jordan.samek@gmail.com)
 
