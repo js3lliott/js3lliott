@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫  Find me **@**: 
   - [LinkedIn](https://www.linkedin.com/in/jordan-samek/)
   - [Mail](mailto:jordan.samek@gmail.com)
-  - [Portfolio] (https://js3lliott.github.io/)
+  - [Website](https://js3lliott.github.io/)
 
 
 
