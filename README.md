@@ -10,10 +10,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning different machine learning techniques and deep learning techniques
-- 📫 Find me **@**: 
+- 🌱  I’m currently learning different machine learning techniques and deep learning techniques
+- 📫  Find me **@**: 
   - [LinkedIn](https://www.linkedin.com/in/jordan-samek/)
   - [Mail](mailto:jordan.samek@gmail.com)
+  - [Portfolio] (https://js3lliott.github.io/)
 
 
 
