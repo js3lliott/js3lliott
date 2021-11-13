@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <img align="left" alt="sql" src="https://img.shields.io/badge/sql%20-%236DB33F.svg?&style=for-the-badge&logo=sql&logoColor=white" />
 <br>
 <br>
+
 ## You can find me **@**: 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jordan-samek/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@jordan.samek)
