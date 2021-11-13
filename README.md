@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## Expertise
+<h3>Expertise</h3>
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
 <img align="left" alt="pytorch" src="https://img.shields.io/badge/pytorch-f94144?logo=pytorch&logoColor=white&style=for-the-badge" />
 <img align="left" alt="tensorflow" src="https://img.shields.io/badge/tensorflow-ff4800?logo=tensorflow&logoColor=white&style=for-the-badge" />
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## You can find me **@**: 
+<h3>You can find me &#64</h3> 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jordan-samek/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@jordan.samek)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/9242747/elliott)
@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-### Stats/Languages/Tools
+<h3>Stats/Languages/Tools<h3>
 [![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=js3lliott&show_icons=true&theme=gotham)](https://github.com/js3lliott/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js3lliott&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
