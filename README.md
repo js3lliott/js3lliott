@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
 <img align="left" alt="pytorch" src="https://img.shields.io/badge/pytorch-FE7A16?logo=pytorch&logoColor=white&style=for-the-badge" />
 <img align="left" alt="tensorflow" src="https://img.shields.io/badge/tensorflow-%23232F3E?logo=tensorflow&logoColor=white&style=for-the-badge" />
-<img align="left" alt="fastai" src="https://img.shields.io/badge/fastai-%23316192.svg?&style=for-the-badge&logo=fastai&logoColor=white" />
+<img align="left" alt="pandas" src="https://img.shields.io/badge/pandas-%23316192.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img align="left" alt="numpy" src="https://img.shields.io/badge/numpy-6495ED?logo=numpy&logoColor=white&style=for-the-badge" />
 <img align="left" alt="sql" src="https://img.shields.io/badge/sql%20-%236DB33F.svg?&style=for-the-badge&logo=sql&logoColor=white" />
 <br>
