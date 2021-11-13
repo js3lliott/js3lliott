@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## Expertise
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
 <img align="left" alt="pytorch" src="https://img.shields.io/badge/pytorch-f94144?logo=pytorch&logoColor=white&style=for-the-badge" />
-<img align="left" alt="tensorflow" src="https://img.shields.io/badge/tensorflow-%23232F3E?logo=tensorflow&logoColor=white&style=for-the-badge" />
+<img align="left" alt="tensorflow" src="https://img.shields.io/badge/tensorflow-FFA800?logo=tensorflow&logoColor=white&style=for-the-badge" />
 <img align="left" alt="pandas" src="https://img.shields.io/badge/pandas-%23316192.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img align="left" alt="numpy" src="https://img.shields.io/badge/numpy-6495ED?logo=numpy&logoColor=white&style=for-the-badge" />
 <img align="left" alt="scikit-learn" src="https://img.shields.io/badge/scikit%20learn-ff9f1c?logo=scikit-learn&logoColor=white&style=for-the-badge" />
