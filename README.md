@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<div>
+
 ## My Skills:
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
 <img align="left" alt="pytorch" src="https://img.shields.io/badge/pytorch-f94144?logo=pytorch&logoColor=white&style=for-the-badge" />
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img align="left" alt="numpy" src="https://img.shields.io/badge/numpy-6495ED?logo=numpy&logoColor=white&style=for-the-badge" />
 <img align="left" alt="scikit-learn" src="https://img.shields.io/badge/scikit%20learn-ff9f1c?logo=scikit-learn&logoColor=white&style=for-the-badge" />
 <img align="left" alt="sql" src="https://img.shields.io/badge/sql%20-%236DB33F.svg?&style=for-the-badge&logo=sql&logoColor=white" />
-</div>
+
 <br>
 <br>
 
