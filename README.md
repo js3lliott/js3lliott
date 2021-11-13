@@ -1,4 +1,4 @@
-## Hi there ![alt text](https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif)
+## Hi I'm Jordan Samek <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="40" height="40" />
 
 <!--
 **js3lliott/js3lliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
