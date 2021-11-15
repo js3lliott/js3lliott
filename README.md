@@ -51,5 +51,8 @@ Here are some ideas to get you started:
 - I could be cooking up something in the kitchen 👨‍🍳 
 - Trying to stay as active as possible 🏋️‍♂️  
 
+<br>
+<br>
+
 ## Stats/Languages/Tools
 [![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=js3lliott&show_icons=true&theme=gotham)](https://github.com/js3lliott/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js3lliott&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
