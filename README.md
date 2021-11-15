@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 💡 Constantly learning new concepts & techniques to keep up with the fast paced industry of data
 - 👀 Looking for opportunities in the field of Data Science and Machine Learning
 <br>
-<br>
 
 ## My Skills 👨‍💻:
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB"/>
