@@ -43,6 +43,13 @@ Here are some ideas to get you started:
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/samekjordan)
 <br>
 <br>
+<br>
+<br>
+
+## When I'm not working with data:
+- I love to read a wide variety of books (mostly non-fiction) 📚 
+- I could be cooking up something in the kitchen 👨‍🍳 
+- Trying to stay as active as possible 🏋️‍♂️  
 
 ## Stats/Languages/Tools
 [![Jordan's github stats](https://github-readme-stats.vercel.app/api?username=js3lliott&show_icons=true&theme=gotham)](https://github.com/js3lliott/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js3lliott&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
