@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 ## You can find me **@**
-![Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/jordan-samek/)
+[![Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-samek/)
 ![Connect](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)
 ![Connect](https://img.shields.io/badge/kaggle-%231877F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white)
 ![Connect](https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)
