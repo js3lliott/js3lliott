@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ![Skill](https://img.shields.io/badge/pandas-%23316192.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![Skill](https://img.shields.io/badge/numpy-6495ED?logo=numpy&logoColor=white&style=for-the-badge)
 ![Skill](https://img.shields.io/badge/scikit%20learn-ff9f1c?logo=scikit-learn&logoColor=white&style=for-the-badge)
+![Skill](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Skill](https://img.shields.io/badge/sql%20-%236DB33F.svg?&style=for-the-badge&logo=sql&logoColor=white)
 
 <!-- <img align="left" alt="pytorch" src="https://img.shields.io/badge/pytorch-f94144?logo=pytorch&logoColor=white&style=for-the-badge"/>
