@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 <img align="left" alt="sql" src="https://img.shields.io/badge/sql%20-%236DB33F.svg?&style=for-the-badge&logo=sql&logoColor=white"/> -->
 
 <br>
-<br>
-<br>
+
 
 
 ## You can find me **@**
@@ -54,7 +53,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/jordan.samek)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/samekjordan) -->
 <br>
-<br>
+
 
 ## When I'm not working with data:
 - I love to read a wide variety of books (mostly non-fiction) 📚 
