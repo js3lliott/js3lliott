@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 ## Currently 👇 :
 
 - 🌱 Working on multiple machine learning and deep learning projects 🤓
+
 - 💡 Constantly learning new concepts & techniques to keep up with the fast paced industry of data
+
 - 👀 Looking for opportunities in the field of Data Science and Machine Learning
 <br>
 
