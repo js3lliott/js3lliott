@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 
 ## My Skills 👨‍💻:
-<img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB"/>
+![Skill](https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB)
 <img align="left" alt="pytorch" src="https://img.shields.io/badge/pytorch-f94144?logo=pytorch&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="tensorflow" src="https://img.shields.io/badge/tensorflow-ff4800?logo=tensorflow&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="pandas" src="https://img.shields.io/badge/pandas-%23316192.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
