@@ -1,5 +1,7 @@
 ## Hi, I'm [Jordan Samek](https://js3lliott.github.io/) <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="40" height="40" />
 
+  I'm a completely self-taught software developer, specializing in machine learning & deep learning. From dawn 'till dusk you can find me typing away at a statistical analysis project, machine learning model, or implementing some sort of deep learning architecture. I studied biology in university from 2013-2017, but got caught up in the data science hype while figuring out what my career was going to be. So I decided to pivot to teaching myself python and went down the endless rabbit hole of machine learning and now I'll never go back!
+
 <!--
 **js3lliott/js3lliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
