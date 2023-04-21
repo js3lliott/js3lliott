@@ -6,15 +6,21 @@ I'm a data scientist with 3 years of experience and a passion for uncovering hid
 
 As a highly motivated, driven individual with a solid scientific background, I'm always eager to learn new concepts and rapidly integrate them into my daily work. My passion for data science has equipped me with advanced skills in machine learning, NLP, and statistical analysis.
 
+<br>
+
 🛠️ My technical expertise includes, but is not limited to:
 
-⚙️ Data Analysis (ETL, data wrangling, feature engineering)
-⚙️ Python (Numpy, Pandas, Plotly, Matplotlib, Scipy)
-⚙️ PyTorch
-⚙️ Tensorflow
-⚙️ SQL
-⚙️ Git
-⚙️ MLFlow
+<br>
+
+- ⚙️ Data Analysis (ETL, data wrangling, feature engineering)
+- ⚙️ Python (Numpy, Pandas, Plotly, Matplotlib, Scipy)
+- ⚙️ PyTorch
+- ⚙️ Tensorflow
+- ⚙️ SQL
+- ⚙️ Git
+- ⚙️ MLFlow
+
+<br>
 
 I love the challenge of transforming raw data into creative results that not only captivate the audience but also provide meaningful insights to drive business growth. My ultimate goal is to help organizations make data-driven decisions by leveraging the power of advanced analytics and machine learning.
 
