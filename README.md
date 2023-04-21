@@ -2,7 +2,7 @@
 
 🚀 Empowering Data-Driven Decisions | 🧠 Machine Learning Enthusiast | 🔍 NLP & Advanced Analytics | 🌟 Let's Unlock the Hidden Potential of Your Data!
 
-I'm a data scientist with 3 years of experience and a passion for uncovering hidden patterns and insights within data. I pride myself on my ability to bridge the gap between abstract concepts and actionable results, using the power of data science to help businesses make more informed decisions.
+I'm a self-taught data scientist with 3 years of experience and a passion for uncovering hidden patterns and insights within data. I pride myself on my ability to bridge the gap between abstract concepts and actionable results, using the power of data science to help businesses make more informed decisions.
 
 As a highly motivated, driven individual with a solid scientific background, I'm always eager to learn new concepts and rapidly integrate them into my daily work. My passion for data science has equipped me with advanced skills in machine learning, NLP, and statistical analysis.
 
