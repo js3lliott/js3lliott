@@ -1,6 +1,26 @@
 ## Hi, I'm [Jordan Samek](https://js3lliott.github.io/) <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="40" height="40" />
 
-I'm a completely self-taught software developer, specializing in machine learning & deep learning. From dawn 'till dusk you can find me typing away at a statistical analysis project, machine learning model, or implementing some sort of deep learning architecture. I studied biology in university from 2013-2017, but got caught up in the data science hype while figuring out what my career was going to be. So I decided to pivot to teaching myself python and went down the endless rabbit hole of machine learning and now I'll never go back!
+🚀 Empowering Data-Driven Decisions | 🧠 Machine Learning Enthusiast | 🔍 NLP & Advanced Analytics | 🌟 Let's Unlock the Hidden Potential of Your Data!
+
+I'm a data scientist with 3 years of experience and a passion for uncovering hidden patterns and insights within data. I pride myself on my ability to bridge the gap between abstract concepts and actionable results, using the power of data science to help businesses make more informed decisions.
+
+As a highly motivated, driven individual with a solid scientific background, I'm always eager to learn new concepts and rapidly integrate them into my daily work. My passion for data science has equipped me with advanced skills in machine learning, NLP, and statistical analysis.
+
+🛠️ My technical expertise includes, but is not limited to:
+
+⚙️ Data Analysis (ETL, data wrangling, feature engineering)
+⚙️ Python (Numpy, Pandas, Plotly, Matplotlib, Scipy)
+⚙️ PyTorch
+⚙️ Tensorflow
+⚙️ SQL
+⚙️ Git
+⚙️ MLFlow
+
+I love the challenge of transforming raw data into creative results that not only captivate the audience but also provide meaningful insights to drive business growth. My ultimate goal is to help organizations make data-driven decisions by leveraging the power of advanced analytics and machine learning.
+
+When I'm not working on data and building ML models, you can find me head down in a good book or two (I'm a sucker for anything non-fiction) or heading off to the gym for a sweat!
+
+If you'd like to chat, let's connect!
 
 <!--
 **js3lliott/js3lliott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
