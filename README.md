@@ -6,11 +6,9 @@ I'm a data scientist with 3 years of experience and a passion for uncovering hid
 
 As a highly motivated, driven individual with a solid scientific background, I'm always eager to learn new concepts and rapidly integrate them into my daily work. My passion for data science has equipped me with advanced skills in machine learning, NLP, and statistical analysis.
 
-<br>
 
 🛠️ My technical expertise includes, but is not limited to:
 
-<br>
 
 - ⚙️ Data Analysis (ETL, data wrangling, feature engineering)
 - ⚙️ Python (Numpy, Pandas, Plotly, Matplotlib, Scipy)
